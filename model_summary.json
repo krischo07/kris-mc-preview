@@ -1,0 +1,260 @@
+{
+  "schem": "rejected_storage_wing_v1.schem",
+  "size": [
+    25,
+    13,
+    39
+  ],
+  "materials": [
+    {
+      "family": "minecraft:deepslate_tiles",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVR4nIVTu46DQAw0kRvIowktHVIiITr+/1NOytEEHTR3CVsmGshwXou7TGN78fgx7CZ1XT9EREIIMJKmqfwX+zPN83wOxlH6YZCqqqb45xZkv5sTCZyN92/JtofJ9n0vCiJwf1kmWoLH8HVd/I0nW7CbR5pli6+e7Lvabh6TBsGIA3xePqIELxp8y9GmaSLRuD9XaNtWtmZk+IwxvZLAsWkpLrtzVVoW2Vix1hRf68xCWCUpy/Lhd/RC2TOvmeKjrYyE07laLpG/UPYvYU0FAQX87+y6LhIzmsrooVaYdwQLcqYC/qHgjvv9/3pcmh+P0dW0QCHqwzVBLIriVwNLXhvVj+xznyYZ3THtXqBvAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/deepslate_tiles.png"
+    },
+    {
+      "family": "minecraft:deepslate_bricks",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHUlEQVR4nI2STU7DMBCFTeRNUmCDiDhILpBb5NC5Qytlg0OyoW28LPoMz0ytIPGkdDxvfjzuvIdhGG5t27r/Yp7nZEMIbpom5ykWuYfzJbqnx/qOozhuWzpXfxXxgbJYfN00vw1CCDmA3a6f6dtrCN8cnnOs4odxuIlG68d7CpBkG1OID68c4Hn/y+ubOx2PeTS9T6AYjpgmW5blu8Hpp1BQcWmvpinnAxfF6LwCOGmCur7zLUeueCy87/s+EVqlNIE/jqPrui5ze/Aq1L7x7Z73dGK1UYmw4J/WnkvQ3GqjKjsDEspNKKb15iecLzHt1d5ob2B8iQu+VKaXKOyerQqBdKBJFMd6m1iODaxO7Fm5WQcltO9lXZOVFkp8AVLs8hRYKtmUAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/deepslate_bricks.png"
+    },
+    {
+      "family": "minecraft:polished_blackstone",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABNklEQVR4nIWSQUvDQBCFJ2sO2lLQgggR2x9QL178E4Inf7oe9FZDAlKIhdLaS4m8Xb51jIoPwmZn37yZt7PF/d1Db2bWdRubTicG/P63M2G7ebeSgDZAZPY+rv/x5CzHmvrFAslX81km1svXnLDbtTkORyLCydHYSlXTpyQOgPZU9B0phnDpyVQcjapMQNSfZ6vVZRJQdbWnTrrue8Lq7SkKYoFzUOoORPYWaPc/CxIO3LpfEVJ1xRDSnnicXttYGCZRCa9+5h7nFwv7OGyThSEhiS5+jJK7YNUYAx34GUtUbZK8X/exIt7p9vi0SFMYXpBWVfl6F6kDePXzYxyhEPzIhhNA0FtRNyTrPwpAjO23TST6O8GzbPjx5ncAlCRf/iVSNaJKr89zi5vr294/T6AkEf4C55/YbvmY/ONPgAAAAABJRU5ErkJggg==",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/polished_blackstone.png"
+    },
+    {
+      "family": "minecraft:polished_blackstone_bricks",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABPklEQVR4nIVSTWvCQBCdpAuCuohCWyxVwR4spJce7P//E0IvHlRoSQOWGg0UKsqb7VumMdB3yHzPvsxM8vz0chpNxgJst6UMBv5fHTiUn7L7yMXRCUfH92WzWottCH9VvUmRi7Tbd0IgNzYAUIQCBCCLfKEFKAagI2ZRfn+JgxOvAGQBeX2bqY+2lWwOpPgEiovYhKCPLMjA/koym96frJPJTT7+EuXP/irMAMpun4vrHjVRA796TOweo15JkJhB8nAzUQYwAN/q/RmUHZiN03bZfK5Tz2p7Bt6Xr/oyKA/9Y7wF5sF22Hv4x+xi2oTdFMBGqE05FN6CnTZoMgafvUY2dNx30y3YpniNsAzTejEYWbqcCZsyh/mOyXb/tDlxS5mrLCRcox4S9wxZR5OfN6I6D8JLL+7W7ptxC+QSZ9EaDXJAS17mAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/polished_blackstone_bricks.png"
+    },
+    {
+      "family": "minecraft:chest",
+      "dataUrl": "data:image/png;base64,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",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/entity/chest/normal.png"
+    },
+    {
+      "family": "minecraft:iron_bars",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/ElEQVR4nI2ToRKCQBBA1xvGYEGjVBMGisnAH9gM/gLJYPNPCPcDDtj8A4MFi8FmxagUgwVnb1hmWW7AV9g9uGX3cQBUJGlS7vbbEhiYR1HUuaYo8KYeSNarDfTh8GS5CEHroLw/bvXm0WTY2DCfBZBlWbtA/szhcj3D5/U1+fF0MAX/7qB4F+Yax/GA1pI0bMxP8K4UBdg2vZ0j19yx28gVBTiznJe64kjZjta69H3f1qnpygaKxH1430GjGPwjjGTzcR2SZhMmPxmH9qmueRHpRaK6jNvctCRCRZ8wXpC/qHGUJVKYTXZdwCbMdjrxX+HP1A7kCSOkFznqDwmGhNZq8BPKAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/iron_bars.png"
+    },
+    {
+      "family": "minecraft:polished_blackstone_brick_slab",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABPklEQVR4nIVSTWvCQBCdpAuCuohCWyxVwR4spJce7P//E0IvHlRoSQOWGg0UKsqb7VumMdB3yHzPvsxM8vz0chpNxgJst6UMBv5fHTiUn7L7yMXRCUfH92WzWottCH9VvUmRi7Tbd0IgNzYAUIQCBCCLfKEFKAagI2ZRfn+JgxOvAGQBeX2bqY+2lWwOpPgEiovYhKCPLMjA/koym96frJPJTT7+EuXP/irMAMpun4vrHjVRA796TOweo15JkJhB8nAzUQYwAN/q/RmUHZiN03bZfK5Tz2p7Bt6Xr/oyKA/9Y7wF5sF22Hv4x+xi2oTdFMBGqE05FN6CnTZoMgafvUY2dNx30y3YpniNsAzTejEYWbqcCZsyh/mOyXb/tDlxS5mrLCRcox4S9wxZR5OfN6I6D8JLL+7W7ptxC+QSZ9EaDXJAS17mAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/polished_blackstone_bricks.png"
+    },
+    {
+      "family": "minecraft:shroomlight",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB0ElEQVR4nG1TPUvDUBQ9CdFFugghEBcjSFwUqiji4uBQV0Fc3ERQ0EnqIrjqoD9AHdxcxB9gxi4ODdbBQUtBO2ihCC5uIo2c+3KfKXiH5L13P865577nPK0MZa8vPURjLkrRN75eBxHPTYLW+biXPf205cNNoDwta1yfo1l/hEfn1NKPOQSkCB3x+gbC8VnAT1GKTCEnHEbGoIcGnMUKYgAOGSgimMDDcFj+WedT/s2rSxRjin5PqYb+jAkoTxsUFsqDyEqLo5Uiw9/a1b4lgMmBbyh228hqiaCHC9uCKsiMa6VWI4/JgqCot4mhx+RcCyb2pvL2gg+LTnP5IX0iNau7/Uj/2UOjb+v0jucz0WDnwghW3bWMpHD9ERP7VWTBqE3u3J1JW2ThSSA3rNZtG7XXtv72AN5vjjCyegBwjLXEaLZgJuJqRREtH5toEPiy57xVk+eTU6uL6uC87Q1kpKqjtAl5Mbk8taRPEwKqeXb+DF6sCF2aUM4LsTgKOoXlC9GDwnv2ItHZbVs9WEhFBAYtbbbGUZNFKQI8o/KBJCttOpVBPD4rSDpCJ58/jWJ6HJntsZUauiokC+qtK/StyXyIIqIe6Px1XXzKxedO0/NfaCoH1u0MkrIAAAAASUVORK5CYII=",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/shroomlight.png"
+    },
+    {
+      "family": "minecraft:polished_blackstone_brick_stairs",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABPklEQVR4nIVSTWvCQBCdpAuCuohCWyxVwR4spJce7P//E0IvHlRoSQOWGg0UKsqb7VumMdB3yHzPvsxM8vz0chpNxgJst6UMBv5fHTiUn7L7yMXRCUfH92WzWottCH9VvUmRi7Tbd0IgNzYAUIQCBCCLfKEFKAagI2ZRfn+JgxOvAGQBeX2bqY+2lWwOpPgEiovYhKCPLMjA/koym96frJPJTT7+EuXP/irMAMpun4vrHjVRA796TOweo15JkJhB8nAzUQYwAN/q/RmUHZiN03bZfK5Tz2p7Bt6Xr/oyKA/9Y7wF5sF22Hv4x+xi2oTdFMBGqE05FN6CnTZoMgafvUY2dNx30y3YpniNsAzTejEYWbqcCZsyh/mOyXb/tDlxS5mrLCRcox4S9wxZR5OfN6I6D8JLL+7W7ptxC+QSZ9EaDXJAS17mAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/polished_blackstone_bricks.png"
+    },
+    {
+      "family": "minecraft:lantern",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAwCAYAAAAYX/pXAAABw0lEQVR4nO1Uv0tCURT+3uPhxadWWA4NChlSQyo4hEUllEtBEAT9B80NrY2tDf0bQmuTGFmQk1g5FFJLhFFigqk8E1+cW0/UNLw1BOUZ7j3v4/z47nn3fhIALITXdYvVTi5KL3nEowcSejSFltWBG5TzKQ6odhviXYKX1zZ1akBmNFGoe6xuB4Y+ourEaFzvxMJg55ma1xsMlmopLA7r8PomOHB5cY1YQerK4tMRVLsNXt8ozEEnB7wAEs/ZjsHZh0c+L9pbZmAOOmGa3kK9fggzAcedC2TSJ1Im3YrJhkPJsrzyJV3qTnvLDMr5IiqJu/fO2Oc+Yb0eQWq+A4aJ3AXFSFBMFg7UqqVe8loLKCYLmIk1wG5FOl0kuT2ZfINNuxlHa56BLELX6Eq/s1GgVi1Bq2qNIPJF5qDQ0pwgOsQfm/RH9GBusAa/28OB89sMTguKmB743SNQwy4O+KNAspgT0wM17IJ5dhuaFoHKaeTE9UDTImBs43t6oB3dg15DBXvc7+sB6+vBP9WDGauGgGeSA8nMFc4KTEwPAp4xsJCDAwF6zWVBPWAhB6yhHf6k8Tt6cPzEP16xy/2+HrC+HkDM3gB7lqxceaaZVwAAAABJRU5ErkJggg==",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/lantern.png"
+    },
+    {
+      "family": "minecraft:calcite",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTElEQVR4nG1TwUoDUQzMru+igrVWKhZ60VI9ePDUi///D6WsXoSKpdvditWTPJmwE8bFQHnpSyaZTN4W7eEz/3x/2LbZ2+VwYNXzi51fjNzHXburDXb38GiDk1Pbfx3sff3qcVhJMIznalmFD1ssnhy8q98M+ZpbRpaZd9tsmvBhs9sbP9GZxu5/CrQCHo+HWjfAR8dn/qOBRdI5CaYGBNFAH/+JQV6ig7kVHBo0e7uaTGN2nGSLX5FzzghAIBWOhcmEW8KpzUoAOSOTdSRVnNSVaVFv15kJ89l9iAaqfBMYAWtcVctoRG0SwbgEGwR8593MwWYy/bdJ4qyqNEqyMKniHieBjCcVKsTqfDwiMOIG+pqgeeqDufv56DruMU6MKltyBvrxMOB+9+EoXcSwQn1wPgKFQWdW5moVrE+duiWA2YmiqaD6qPqG9f4CPRUaOYW1O4IAAAAASUVORK5CYII=",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/calcite.png"
+    },
+    {
+      "family": "minecraft:iron_chain",
+      "dataUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYElEQVR4nGNgQAKqOrb/kWliAKNnQOr/r1/egTnPX7wC05ISYgyH9qxlJMoEO5dgkm1FcYEqVCPIVm4eIQaYa4h2AaWuYULmwMKAFMA44IHIRI6zccYCMhiNBeLBwCdlAChUT5jHoj6kAAAAAElFTkSuQmCC",
+      "realTexture": true,
+      "source": "assets/minecraft/textures/block/iron_chain.png"
+    }
+  ],
+  "shapes": [
+    [
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0.04,
+        0,
+        0.04,
+        0.96,
+        0.875,
+        0.96
+      ]
+    ],
+    [
+      [
+        0.43,
+        0,
+        0.0,
+        0.57,
+        1,
+        1
+      ],
+      [
+        0.0,
+        0,
+        0.43,
+        1,
+        1,
+        0.57
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0.5,
+        0,
+        0,
+        1,
+        0.5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0.5,
+        0.5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0.5,
+        1,
+        0.5,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5
+      ]
+    ],
+    [
+      [
+        0.28,
+        0.05,
+        0.28,
+        0.72,
+        0.62,
+        0.72
+      ],
+      [
+        0.42,
+        0.62,
+        0.42,
+        0.58,
+        0.95,
+        0.58
+      ]
+    ],
+    [
+      [
+        0.42,
+        0,
+        0.42,
+        0.58,
+        1,
+        0.58
+      ]
+    ]
+  ],
+  "stats": {
+    "nonAir": 4467,
+    "topMaterials": {
+      "minecraft:deepslate_bricks": 2756,
+      "minecraft:deepslate_tiles": 594,
+      "minecraft:polished_blackstone": 554,
+      "minecraft:polished_blackstone_bricks": 344,
+      "minecraft:chest": 96,
+      "minecraft:polished_blackstone_brick_slab": 58,
+      "minecraft:polished_blackstone_brick_stairs": 26,
+      "minecraft:calcite": 14,
+      "minecraft:iron_bars": 12,
+      "minecraft:shroomlight": 5,
+      "minecraft:lantern": 4,
+      "minecraft:iron_chain": 4
+    },
+    "realTextures": 12,
+    "materialCount": 12
+  },
+  "specialTextures": {
+    "chestFront": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADA0lEQVR4nO2bv24TQRDG5z6v7dhOHCdxSIRjWRRIKRANDQU9DQ1lCh6AN+ANaJBoKJDS8Aq8QxA9VTpkCYvIUZS/Jjnbd4dkOIWZ7PnWJnaKuV+zmvHe7tq+Pc18s+e1tjYi+of6apVcyMGj2yAI2fRkcrD2i6Lov8aNqS6VmQ1SDkg5IOWYxfICc7x6mne6EIHP7KOh2x69t7TI7O75hfi85DSOvM6Vr99zzAYpB6QckHJMFIXMsbHQs3YcBIY7xKOiRjwuyOeGCVOeMmt1efznSdy8LmW9f/kS8u8LUg5IOSDlGBkym0pCLtA7Y2ZgePxQLBamWoDv9536HV7+mmjcrRqP+WMA/p+DlANSDkg53pPHD9lTYK22NNMJB0HAbCP2pOd5U43jSj6X5QIMQ3Pi7fvdUbu/vz9qt7e3mf3p4zu6C0DK8R40uSZYWihaOwY8hKab0p1dD3jxcofZjUZj1HY6Hat/94P9TghFriGBmF8sd8x1yjHznrBer1vvgNg/b0DKMeUSj+l3ntWsHVfKfI8N+jzfP/avrNrfaY2P12w2R2273bb6Xz9fuRVNUGqPMZ+/8ZsepBwz6wlarRazK5XKWP+8ASnHpO31mOUCrwMcBjw/l+l3Pzgetd29N8zf3bMvJPZviWdGzI+TE2Y/um/vd41bnQKkHJByQMoBKQekHCMrQ36PR3QxYcQVmM38bH67yzO7+ruGwth+shKVVBmKQh4hgpQDUg5IOUZWhpC37x0UuSITpKQRk1ZyrrFXipIixKQKExKW5yFThRkg5YCUY6RDKjsxjTWerw9Ftfhg4KrDctZL9ipuGjI7dGUQcAUMpByQckDKMa5qqlRY5AmRdUd1Me0kSdLe3hxeTRQXJJFVhwUg5YCUY+SLH0fH9jjA7006cNIJjqQTpH+IQvtp8Z9yWef+VPNneoAApByQckDKASnHeB7/DXqRPTvrjX/oUtjnHS5Crry4Uk04o5TGcMizUWPs/62XnRXmgJQDUo6XvTusHJBycNcLuGt+A3rt0MRx0diQAAAAAElFTkSuQmCC",
+    "chestSide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACj0lEQVR4nO3by24TMRQG4N9/nObeDg29CCqxYofYsGHBi7DgcVEeIxskEFVJaTukk8yFDUEcx55xQqsuznw7T2yPk8iT42PHvLo4q/CP58eHiNGhwUMoSnF72A699apK1msUqD8aD0WZUI5QjlDOjod9ceHT+25UQxaZKF/lcXP0dDIW5e+3d87rg6h+3HaxZvOOKBPKEcoRytmqKsWFs37qrbgurLzgPCoSyLig28kDt/wpSsdH9a+HbLdrGO8fn0v5fgnlCOUI5awTisOOAmuB9EYUCyvjh17vYK8BZNkqqt7l8teOPfv7JeV3TihHKEcoZ969fS2eAtNk8qg3XBeFKFtnThpj9uonVrfTrgUEQjlCOftjIX/fl0u5zt8oZAiN7dTdjjm7v+ScZ6Cf0qnncts5w61ppxyhHKGcHQ5kTP/xQ+Kt+Gwo59h6Jdf7i+y+NvcXsp0T3K9drNlcvj9COUI5QjnbNNc3jg5kfHBZyPV5IrfcsCoWUQNw251O/Pf/cn0tym9e+J9VTWZzWSaUI5QjlCOUI5Sz7s5QlsqIbqOsZAbmvPs4n93yxp/9nfKgtl54J0qqyjYSFAjlCOWsuzPErn9XlT2ZkSm2g8j/3Mmp39G5SJIH2WEybLPCAqEcoZx1L7iZnY2X05Eo585u8bd1bB5WOhk4y8FI7uow1rqQGTBCOUI5QjnrXghnZavaEyIn9WFB9EmS0Nw+z+93igtC2t1hB6EcoZx1//hxtfDHAVm6a8ehExz16/aq9J8W/+oO69a/i92kKttTYgKhHKEcoRyhnDVGfgZp5V+dpQ0P3XIlK9yVMvMS67Df26tdnsvVqLX+79a0Z4UlQjlCOdP+d1g5Qjk+9QCe2m/XvbimK6D3kgAAAABJRU5ErkJggg==",
+    "chestTop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACZElEQVR4nO2bQW4TQRBF//xpJ7aTKMqGHWKBYAESEnt2rBHirLlAbsANOAAbKxg7GHumkdh1VSndGVnK4vvtZlRd3T2SS79+t7t3b15mGC6X8+KZNgDAgA41euTqmM7EtJJNrmEM5jcLH7OfixCHEIcQhxAnXV0u3csvH8siuB/W1UQvri6rMT/Xv4827ua8XOPsLLmY1bYslLff/7gYQhxCHEKcFL28WZaC4fbuRzXR/V//7vqsHnMsLnr/7tvnD9VxhDiEOIQ4hDgpj76N2m1KwbDfByNNY+XlFLA3RW9ZbyAnkwdU95HHUzfoIMQhxEkd/TfgrFQVXfCZUiA8LE745OOJnBY4K3XekH0xI8QhxCHEIcRJh8BPXu3KYrEJRAaGxzu/1uIV5m6IsaJqNvMxq511gPyCCHEIcQhxUrLnR/+d2kX1922JGqatET5RnuugThwa6kIL3nF+cDGEOIQ4hDiEOClyhIaHzaPOTivWJQqdpRYaush9UDjtPvqgrSXEIcQhxCHESZEl1i9KJdj10ywxy9SzwchOj7o/S7+4KJ477lwMIQ4hDiFOihyh6E7OlI6tpU5Mtbzt/JFrZPdxGE6OkIMQhxCHECdFlpj1vFus6xbbLFxAP00wWXEUFVN7mTL1fiOEOIQ4hDhpDO7NXDM9+W5Pi9sT5YnGubjIEcr1O0IcyuYnjydHyEGIQ4hDiJNIX5m2XSkgvn567WLG/rya3J/PHw8rcqK5fuXybHDIWxdDiEOIQ4jTvX/7ysmM+fzpnU3cVJXk4K+rQyDEWnJN4X59qgEOQhxCHD73Ap6bf92qozlNbcL6AAAAAElFTkSuQmCC",
+    "lanternBodySide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABGklEQVR4nO3bq05DURCF4f/8OSHhZopCoFGtJCgEoLA8CM/CyyBJcJUNKDQCV0i4GVJ4g2Y20DRk9dMrM3Pcyk5Od3R6/kXR5taA/+DtdVrOSjgJJ+EknISTcBJOwvUnn5Ny+Hin1pmGo30W4e72vpS7fu7KMyWchJNwEk7CSTgJJ+H6jcF2OTwc7ZZy64d7vzhpzv5ibvz0WJ4p4SSchJNwEk7CSTgJ17eEqwVn7eCiPHM2u6rvrwZvVkWoTMJJOAkn4SSchJNwEq5fxNCWdqdnDZMvf3TP3P2Ek3ASTsJJOAkn4SRc/z59KYc/xg9/+3TVWG6q+1u+ScJJOAkn4SSchJNwEq5b/TYXTsJJOAkn4SSchHPZByzbNxYAKpKvSdrWAAAAAElFTkSuQmCC",
+    "lanternBodyTop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAvUlEQVR4nO3aMQoCQQxG4edj0MI7WXkD738MixVBr+DCDlM8vzokKX9CTrf748PBxvnKDO/X8/CeEidxEidxEidxEidxEidxY0bEvZwvrLQnMkucxEmcxEmcxEmcxEnc2HPAXJ3wZsyXOImTOImTOImTOImTOImTOImTOImTOImTOImTOImTuDHj/XTW9Xh7bT/V/f8DdpA4iZM4iZM4iZM4iRt7imekxtXzJU7iJE7iJE7iJE7iJM7VC6z2BeurF1nzO0tBAAAAAElFTkSuQmCC",
+    "lanternCapSide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAc0lEQVR4nOXOqxECQQAE0aYLxU9cQCgsisRJgBRO3WEhiBUr+vmemsP98fox4HxZmGnf1qFe4iRO4iRO4iRO4iRO4iRO4iRO4iRO4o7P22do4Lu+mem0XId6iZM4iZM4iZM4iZM4iZM4iZM4iZM4Zx+Y7Q/xcQkrX59iiwAAAABJRU5ErkJggg==",
+    "lanternCapTop": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAoElEQVR4nO3bsQ0CAQwEwWX14vsi/CLov4UngSIcOFgmt3TpSefH63p/GTifJ5vuzz26lziJkziJkziJkziJkziJkziJkziJk7hju89PTfNLnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJnMRJ3DHd22/vC/7/AkMSJ3ESJ3ESJ3ESJ3ESJ3ESJ3ES53aAbT93XguB7wQE9gAAAABJRU5ErkJggg=="
+  }
+}
